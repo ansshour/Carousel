@@ -1,3 +1,7 @@
+body {
+    background-color: loghtgray;
+}
+
 .wrapper {
     margin-top: 10px;
     display: flex;
@@ -43,7 +47,7 @@
 }
 
 .image {
-    box-shadow: 0px 0px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 0px 10px 3px rgba(34, 60, 80, 0.1);
     background-size: cover;
     background-position: center;
     height: 200px;
